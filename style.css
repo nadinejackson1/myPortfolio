@@ -5,7 +5,7 @@ Author: Nadine Jackson
 Author URL: http://www.nadinejackson1.github.io
 Template: CP11
 Description: myPortfolio Theme
-Version: 1.0
+Version: 1.00
 */
 
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,500");
@@ -486,3 +486,4 @@ ul.filters.filters-tag > li.active > a {
     min-height: 250px;
     margin-bottom: 15px;
 }
+/*update now
